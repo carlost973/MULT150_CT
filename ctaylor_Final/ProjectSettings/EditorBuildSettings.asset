@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: 9d4fe8fd5fcba9c49be0c99a0a3a25f2
+  - enabled: 1
+    path: Assets/Scenes/GauntletRunnerReVamped.unity
+    guid: b929af132b2c589469146fdf9a33c0fc
   m_configObjects: {}
